@@ -1,0 +1,45 @@
+{
+"colorArray":[ "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000", "#f34770", "#000"],
+
+"segmentValuesArray" : [
+  {"probability":10, "type": "string", "value": "iPad^Mini", "win": false, "resultText": "NOBODY LIKES A SQUARE :&#40;", "userData": {"score":0}},
+  {"probability":10, "type": "string", "value": "1x^Giveaway^Entry", "win": false, "resultText": "LOSE WITH AN OCTAGON!", "userData": {"score":0}},
+  {"probability":10, "type": "string", "value": "2x^Giveaway^Entry", "win": true, "resultText": "A TRIANGLE MEANS A PRIZE!", "userData": {"score":40}},
+  {"probability":10, "type": "string", "value": "3x^Giveaway^Entry", "win": false, "resultText": "A CIRCLE IS A WINNER!", "userData": {"score":0}}
+  
+],
+
+  "svgWidth": 1024,
+  "svgHeight": 1024,
+  "wheelStrokeColor": "#191919",
+  "wheelStrokeWidth": 18,
+  "wheelSize": 900,
+  "wheelTextOffsetY": 100,
+  "wheelTextColor": "#fff",  
+  "wheelTextSize": "3em",
+  "wheelImageOffsetY": 40,
+  "wheelImageSize": 50,
+  "centerCircleSize": 360,
+  "centerCircleStrokeColor": "#191919",
+  "centerCircleStrokeWidth": 12,
+  "centerCircleFillColor": "#EDEDED",
+  "centerCircleImageUrl":"media/logo.png",
+  "centerCircleImageWidth":400,
+  "centerCircleImageHeight":400,  
+  "segmentStrokeColor": "#E2E2E2",
+  "segmentStrokeWidth": 4,
+  "centerX": 512,
+  "centerY": 512,  
+  "hasShadows": false,
+  "numSpins": 1,
+  "spinDestinationArray":[],
+  "minSpinDuration":3,
+  "gameOverText":"",
+  "invalidSpinText":"INVALID SPIN. PLEASE SPIN AGAIN.",
+  "introText":"",
+  "hasSound":true,
+  "gameId":"9a0232ec06bc431114e2a7f3aea03bbe2164f1aa",
+  "clickToSpin":true,
+  "spinDirection": "ccw",
+  "disabledText":"You have no more spins today" 
+}
